@@ -14,4 +14,6 @@ This Playground displays several different methods of adding rounded corners to 
 ![Third example of a photo with rounded corners of different radii on the top.](Example3.png)
 
 
+## SwiftUI
 
+A SwiftUI example is available at https://gist.github.com/edenwaith/16b85fb66ad732fce8738d759e16a0fe to demonstrate similar concepts to apply different rounded corners to an Image.
